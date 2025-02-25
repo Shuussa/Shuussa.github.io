@@ -67,7 +67,7 @@ const questionTexts = Array.from({ length: 520 }, (_, i) => {
     for (let j = 0; j < i; j++) {
         text += '最';
     }
-    return text + '喜欢你了小颖(●′ω`●)';
+    return text + '喜欢你了小敏(●′ω`●)';
 });
 const imagePaths = [
     'img/bg1.png',
